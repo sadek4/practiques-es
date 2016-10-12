@@ -1,2 +1,2 @@
-# practiques-es
-Pràctiques de continguts multimedia
+# practiques-ea
+Abdessadek El Atiki
