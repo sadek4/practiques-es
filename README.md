@@ -1,2 +1,2 @@
-# practiques-ea
+# Pràctiques-ea
 Abdessadek El Atiki
